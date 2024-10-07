@@ -13,8 +13,6 @@
 //     console.log(" hello otina")
 // },1000)
 
-// Modules
-
 // console.log(name)
 let name = require("./names")
 let greetings = require("./call")
